@@ -18,7 +18,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from nd2reader import ND2Reader
 from scipy import ndimage
-
+　
 #readfile = "C:\WinPython-64bit-3.6.1.0Qt5\modules\Captured DIA_exome_3.nd2"
 readfile = "D:\iPS\XY238.nd2"
 
